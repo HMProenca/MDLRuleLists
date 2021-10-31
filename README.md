@@ -1,6 +1,6 @@
 # MDL Rule Lists for prediction and data mining
 
-The most recent version of *MDL rule lists* for classification, regression and subgroup discovery can be found on PyPi [https://pypi.org/project/rulelist/](https://pypi.org/project/rulelist/) and installed using:
+The most recent version of *MDL rule lists* for classification, regression and subgroup discovery can be found on the https://github.com/HMProenca/RuleList repository  or in PyPi [https://pypi.org/project/rulelist/](https://pypi.org/project/rulelist/) and installed using:
 ```python
 pip install rulelist
 ```
